@@ -1,7 +1,7 @@
 # !/usr/bin/env python
 # coding:utf-8
 # Author: Huangyu
-# 利用class结构训练并测试fashion_mnist
+
 import tensorflow as tf
 import os
 import numpy as np
